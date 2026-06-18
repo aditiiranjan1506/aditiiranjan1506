@@ -1,16 +1,16 @@
-## Hi there 👋
+## ## hello ♡
 
-<!--
-**aditiiranjan1506/aditiiranjan1506** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i'm aditi ranjan ✦
 
-Here are some ideas to get you started:
+computer science student.
+professional tab hoarder.
+occasional artist.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+i like pretty interfaces, interesting problems, and learning how to turn ideas into actual projects.
+i spend most of my time switching between coding, pinterest, music, and convincing myself i'll sleep early tonight ☕.
+still figuring things out, but having fun along the way ⋆｡°✩
+
+
+
+
+
